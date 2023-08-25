@@ -1,7 +1,8 @@
 # Drum Machine
 
 <p align="center">
-<img src="Drum Master.jpg" width="90%"></p>
+  <a href="https://kv7m45.csb.app/">
+<img src="Drum Master.jpg" width="90%"></a></p>
 
 This project is a web application that functions as a drum machine. It allows users to trigger audio clips of various drum sounds by clicking on drum pads or using keyboard shortcuts. The app is built using React and follows the specifications provided by freeCodeCamp.
 
@@ -70,7 +71,8 @@ You can access the live version of this project [here](https://kv7m45.csb.app/).
 
 ## Acknowledgements
 
-This project was developed as part of the freeCodeCamp curriculum. The app's design and features were inspired by the drum machine example provided by freeCodeCamp.
+- FreeCodeCamp for providing the project requirements and test suite.
+- CodeSandbox for providing the development environment.
 
 ## License
 
@@ -78,4 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize this README to better match your project's structure and style. Make sure to include any additional information that you think would be useful for users who want to understand or contribute to your project.
+_This project is a solution for the FreeCodeCamp "Build a Drum Machine" project._
+
